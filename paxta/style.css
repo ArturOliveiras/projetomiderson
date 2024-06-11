@@ -1,4 +1,9 @@
 body{background-color: black;}
+{
+@media screen and {max-width: 500px;}
+   
+body{background-color: black;}
+}
 h1{color: ghostwhite;}
 h2{color: ghostwhite;}
 h3{color: ghostwhite;}
